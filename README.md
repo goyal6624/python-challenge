@@ -1,6 +1,6 @@
 # Python Challenge
 
-This repository houses scripts for two different things things: PyBank and PyPoll.
+This repository houses scripts for two different things: **PyBank** and **PyPoll**.
 
 ## PyBank
 
